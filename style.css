@@ -42,8 +42,13 @@ li, a, .fourth-item-2 {
     height: auto;
     padding-bottom: 18px;
 }
+.image {
+    flex-grow: 1 1 auto;
+    display: flex;
+    height: 170px;
+    border: 1px solid khaki;
+}
 
-.image,
 .one {
     width: 370px;
     height: 170px;
